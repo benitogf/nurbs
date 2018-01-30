@@ -1,5 +1,10 @@
 # rollup-starter-browser-lib
 
+[![Build Status][build-image]][build-url]
+
+[build-url]: https://travis-ci.org/benitogf/nurbs
+[build-image]: https://travis-ci.org/benitogf/nurbs.svg?style=flat-square
+
 This repo contains an example of how to create a browser library using Rollup, including testing with karma, mocha and chai.
 
 We're creating a library called `Nurbs`, which is just a constructor
